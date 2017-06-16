@@ -1,5 +1,5 @@
 {
-    "name": "higherform",
+    "name": "higherformtemp",
     "description": "A ReactJS form library built around higher order components",
     "main": "./lib/index.js",
     "version": "0.8.0",
@@ -13,7 +13,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/AgencyPMG/higherform"
+        "url": "https://github.com/ericelsken/higherform"
     },
     "dependencies": {
         "invariant": "~2.0",
@@ -43,7 +43,7 @@
         "webpack-dev-server": "^1.15.0"
     },
     "authors": [
-        "Christopher Davis <chris@pmg.com> (http://christopherdavis.me)"
+        "Eric Elsken <eric.elsken@gmail.com>"
     ],
     "files": [
         "src",
